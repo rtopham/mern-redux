@@ -1,0 +1,12 @@
+body {
+  padding-top: 80px;
+}
+
+.brandImage {
+  height: 35px;
+  width: 35px;
+}
+
+.alertDiv {
+  min-height: 66px;
+}
